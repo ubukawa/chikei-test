@@ -1,9 +1,8 @@
 {
   "center": [
-    129.907088,
-    32.721957
+    139.831924,
+    35.703813
   ],
-  "glyphs": "mapbox://fonts/mapbox/{fontstack}/{range}.pbf",
   "layers": [
     {
       "id": "one",

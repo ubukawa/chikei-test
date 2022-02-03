@@ -667,7 +667,7 @@
       "maxzoom": 12,
       "minzoon": 10,
       "url": [
-        "https://ubukawa.github.io/chikei-test/ersi_interFace/VectorTileServer/"
+        "https://ubukawa.github.io/chikei-test/esri_interFace/VectorTileServer/"
       ],
       "type": "vector"
     }

@@ -1,0 +1,15 @@
+center:
+  - 139.831924
+  - 35.703813
+layers:
+  - !!inc/file layers/one.yml
+sources:
+  v:
+    attribution: 国土地理院ベクトルタイル提供実験
+    maxzoom: 12
+    minzoon: 10
+    tiles:
+      - https://optgeo.github.io/one/zxy/{z}/{x}/{y}.pbf
+    type: vector
+version: 8
+zoom: 13

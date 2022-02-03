@@ -666,9 +666,7 @@
       "attribution": "国土地理院ベクトルタイル提供実験",
       "maxzoom": 12,
       "minzoon": 10,
-      "url": [
-        "https://ubukawa.github.io/chikei-test/esri_interFace/VectorTileServer/"
-      ],
+      "url": "https://ubukawa.github.io/chikei-test/esri_interFace/VectorTileServer",
       "type": "vector"
     }
   },

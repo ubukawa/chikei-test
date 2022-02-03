@@ -16,7 +16,7 @@
 <script>
 var map = new maplibregl.Map({
 container: 'map', // container id
-style: 'https://ubukawa.github.io/chikei-test/style/style-one.js', // style URL
+style: 'https://ubukawa.github.io/chikei-test/style/style-one.json', // style URL
 center: [139.831924, 35.703813], // starting position [lng, lat]
 zoom: 10, // starting zoom
 maxZoom: 10, // min zoom

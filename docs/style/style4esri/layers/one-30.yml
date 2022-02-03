@@ -3,6 +3,7 @@ filter:
   - - 'in'
     - code
     - 9999
+    - '9999'
 id: one-30
 paint:
   fill-color: '#ff00ff'

@@ -4,6 +4,8 @@ filter:
     - code
     - 10503
     - 3040101
+    - '10503'
+    - '3040101'
 id: one-7
 paint:
   fill-color: '#ffff33'

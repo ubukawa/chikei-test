@@ -4,6 +4,8 @@ filter:
     - code
     - 10904
     - 5010301
+    - '10904'
+    - '5010301'
 id: one-17
 paint:
   fill-color: '#779999'

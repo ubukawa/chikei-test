@@ -4,6 +4,8 @@ filter:
     - code
     - 11008
     - 4010101
+    - '11008'
+    - '4010101'
 id: one-22
 paint:
   fill-color: '#c37aff'

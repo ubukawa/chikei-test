@@ -3,6 +3,7 @@ filter:
   - - 'in'
     - code
     - 11010
+    - '11010'
 id: one-23
 paint:
   fill-color: '#ffe8e8'

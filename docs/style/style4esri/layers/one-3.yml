@@ -4,6 +4,8 @@ filter:
     - code
     - 10205
     - 10206
+    - '10205'
+    - '10206'
 id: one-3
 paint:
   fill-color: '#cc99ff'

@@ -1,0 +1,677 @@
+{
+  "center": [
+    139.831924,
+    35.703813
+  ],
+  "layers": [
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          10101,
+          1010101,
+          11201,
+          11202,
+          11203,
+          "10101",
+          "1010101",
+          "11201",
+          "11202",
+          "11203"
+        ]
+      ],
+      "id": "one-1",
+      "paint": {
+        "fill-color": "#d9cbae"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          10202,
+          10204,
+          2010201,
+          "10202",
+          "10204",
+          "2010201"
+        ]
+      ],
+      "id": "one-2",
+      "paint": {
+        "fill-color": "#9466ab"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          10205,
+          10206,
+          "10205",
+          "10206"
+        ]
+      ],
+      "id": "one-3",
+      "paint": {
+        "fill-color": "#cc99ff"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          10301,
+          10302,
+          10303,
+          10304,
+          10308,
+          10314,
+          10305,
+          10508,
+          2010101,
+          10306,
+          10307,
+          10310,
+          10312,
+          "10301",
+          "10302",
+          "10303",
+          "10304",
+          "10308",
+          "10314",
+          "10305",
+          "10508",
+          "2010101",
+          "10306",
+          "10307",
+          "10310",
+          "10312"
+        ]
+      ],
+      "id": "one-4",
+      "paint": {
+        "fill-color": "#ffaa00"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          10401,
+          10402,
+          10403,
+          10404,
+          10406,
+          10407,
+          3010101,
+          "10401",
+          "10402",
+          "10403",
+          "10404",
+          "10406",
+          "10407",
+          "3010101"
+        ]
+      ],
+      "id": "one-5",
+      "paint": {
+        "fill-color": "#99804d"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          10501,
+          10502,
+          3020101,
+          "10501",
+          "10502",
+          "3020101"
+        ]
+      ],
+      "id": "one-6",
+      "paint": {
+        "fill-color": "#cacc60"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          10503,
+          3040101,
+          "10503",
+          "3040101"
+        ]
+      ],
+      "id": "one-7",
+      "paint": {
+        "fill-color": "#ffff33"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          10506,
+          10507,
+          10801,
+          "10506",
+          "10507",
+          "10801"
+        ]
+      ],
+      "id": "one-8",
+      "paint": {
+        "fill-color": "#fbe09d"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          10504,
+          10505,
+          10512,
+          3050101,
+          "10504",
+          "10505",
+          "10512",
+          "3050101"
+        ]
+      ],
+      "id": "one-9",
+      "paint": {
+        "fill-color": "#ffff99"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          10601,
+          2010301,
+          "10601",
+          "2010301"
+        ]
+      ],
+      "id": "one-10",
+      "paint": {
+        "fill-color": "#a3cc7e"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          10701,
+          3030101,
+          10702,
+          10705,
+          "10701",
+          "3030101",
+          "10702",
+          "10705"
+        ]
+      ],
+      "id": "one-11",
+      "paint": {
+        "fill-color": "#bbff99"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          10703,
+          10804,
+          3030201,
+          "10703",
+          "10804",
+          "3030201"
+        ]
+      ],
+      "id": "one-12",
+      "paint": {
+        "fill-color": "#00d1a4"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          10704,
+          3040201,
+          3040202,
+          "10704",
+          "3040201",
+          "3040202"
+        ]
+      ],
+      "id": "one-13",
+      "paint": {
+        "fill-color": "#6699ff"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          3040301,
+          "3040301"
+        ]
+      ],
+      "id": "one-14",
+      "paint": {
+        "fill-color": "#1f9999"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          10802,
+          10803,
+          10807,
+          10808,
+          "10802",
+          "10803",
+          "10807",
+          "10808"
+        ]
+      ],
+      "id": "one-15",
+      "paint": {
+        "fill-color": "#9f9fc4"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          10805,
+          10806,
+          10901,
+          10903,
+          5010201,
+          "10805",
+          "10806",
+          "10901",
+          "10903",
+          "5010201"
+        ]
+      ],
+      "id": "one-16",
+      "paint": {
+        "fill-color": "#e5ffff"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          10904,
+          5010301,
+          "10904",
+          "5010301"
+        ]
+      ],
+      "id": "one-17",
+      "paint": {
+        "fill-color": "#779999"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          11001,
+          11003,
+          11009,
+          11011,
+          4010301,
+          "11001",
+          "11003",
+          "11009",
+          "11011",
+          "4010301"
+        ]
+      ],
+      "id": "one-18",
+      "paint": {
+        "fill-color": "#85c4d1"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          11002,
+          "11002"
+        ]
+      ],
+      "id": "one-19",
+      "paint": {
+        "fill-color": "#8ad8b6"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          11004,
+          11006,
+          11007,
+          11014,
+          "11004",
+          "11006",
+          "11007",
+          "11014"
+        ]
+      ],
+      "id": "one-20",
+      "paint": {
+        "fill-color": "#ef8888"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          4010201,
+          11005,
+          "4010201",
+          "11005"
+        ]
+      ],
+      "id": "one-21",
+      "paint": {
+        "fill-color": "#ff4f4f"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          11008,
+          4010101,
+          "11008",
+          "4010101"
+        ]
+      ],
+      "id": "one-22",
+      "paint": {
+        "fill-color": "#c37aff"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          11010,
+          "11010"
+        ]
+      ],
+      "id": "one-23",
+      "paint": {
+        "fill-color": "#ffe8e8"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          999999,
+          "999999"
+        ]
+      ],
+      "id": "one-24",
+      "paint": {
+        "fill-color": "#144dfa"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          101,
+          "101"
+        ]
+      ],
+      "id": "one-25",
+      "paint": {
+        "fill-color": "#e6e600"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          102,
+          "102"
+        ]
+      ],
+      "id": "one-26",
+      "paint": {
+        "fill-color": "#00e2e6"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          103,
+          "103"
+        ]
+      ],
+      "id": "one-27",
+      "paint": {
+        "fill-color": "#2ae600"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          104,
+          "104"
+        ]
+      ],
+      "id": "one-28",
+      "paint": {
+        "fill-color": "#e60400"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          105,
+          "105"
+        ]
+      ],
+      "id": "one-29",
+      "paint": {
+        "fill-color": "#5e5ce6"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    },
+    {
+      "filter": [
+        "any",
+        [
+          "in",
+          "code",
+          9999,
+          "9999"
+        ]
+      ],
+      "id": "one-30",
+      "paint": {
+        "fill-color": "#ff00ff"
+      },
+      "source": "v",
+      "source-layer": "one",
+      "type": "fill"
+    }
+  ],
+  "sources": {
+    "v": {
+      "attribution": "国土地理院ベクトルタイル提供実験",
+      "maxzoom": 12,
+      "minzoon": 10,
+      "url": [
+        "https://ubukawa.github.io/chikei-test/ersi_interFace/VectorTileServer/"
+      ],
+      "type": "vector"
+    }
+  },
+  "version": 8,
+  "zoom": 13
+}

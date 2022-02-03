@@ -1,0 +1,11 @@
+filter:
+  - any
+  - - 'in'
+    - code
+    - 11010
+id: one-23
+paint:
+  fill-color: '#ffe8e8'
+source: v
+source-layer: one
+type: fill

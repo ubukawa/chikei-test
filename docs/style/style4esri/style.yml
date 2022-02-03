@@ -2,7 +2,37 @@ center:
   - 139.831924
   - 35.703813
 layers:
-  - !!inc/file layers/one.yml
+#  - !!inc/file layers/one.yml
+  - !!inc/file layers/one-1.yml
+  - !!inc/file layers/one-2.yml
+  - !!inc/file layers/one-3.yml
+  - !!inc/file layers/one-4.yml
+  - !!inc/file layers/one-5.yml
+  - !!inc/file layers/one-6.yml
+  - !!inc/file layers/one-7.yml
+  - !!inc/file layers/one-8.yml
+  - !!inc/file layers/one-9.yml
+  - !!inc/file layers/one-10.yml
+  - !!inc/file layers/one-11.yml
+  - !!inc/file layers/one-12.yml
+  - !!inc/file layers/one-13.yml
+  - !!inc/file layers/one-14.yml
+  - !!inc/file layers/one-15.yml
+  - !!inc/file layers/one-16.yml
+  - !!inc/file layers/one-17.yml
+  - !!inc/file layers/one-18.yml
+  - !!inc/file layers/one-19.yml
+  - !!inc/file layers/one-20.yml
+  - !!inc/file layers/one-21.yml
+  - !!inc/file layers/one-22.yml
+  - !!inc/file layers/one-23.yml
+  - !!inc/file layers/one-24.yml
+  - !!inc/file layers/one-25.yml
+  - !!inc/file layers/one-26.yml
+  - !!inc/file layers/one-27.yml
+  - !!inc/file layers/one-28.yml
+  - !!inc/file layers/one-29.yml
+  - !!inc/file layers/one-30.yml
 sources:
   v:
     attribution: 国土地理院ベクトルタイル提供実験

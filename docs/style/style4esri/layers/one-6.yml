@@ -1,0 +1,13 @@
+filter:
+  - any
+  - - 'in'
+    - code
+    - 10501
+    - 10502
+    - 3020101
+id: one-6
+paint:
+  fill-color: '#cacc60'
+source: v
+source-layer: one
+type: fill

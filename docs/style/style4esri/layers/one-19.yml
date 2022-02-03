@@ -1,0 +1,11 @@
+filter:
+  - any
+  - - 'in'
+    - code
+    - 11002
+id: one-19
+paint:
+  fill-color: '#8ad8b6'
+source: v
+source-layer: one
+type: fill

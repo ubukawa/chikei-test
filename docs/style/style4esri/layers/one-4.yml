@@ -1,0 +1,23 @@
+filter:
+  - any
+  - - 'in'
+    - code
+    - 10301
+    - 10302
+    - 10303
+    - 10304
+    - 10308
+    - 10314
+    - 10305
+    - 10508
+    - 2010101
+    - 10306
+    - 10307
+    - 10310
+    - 10312
+id: one-4
+paint:
+  fill-color: '#ffaa00'
+source: v
+source-layer: one
+type: fill

@@ -1,0 +1,13 @@
+filter:
+  - any
+  - - 'in'
+    - code
+    - 10202
+    - 10204
+    - 2010201
+id: one-2
+paint:
+  fill-color: '#9466ab'
+source: v
+source-layer: one
+type: fill

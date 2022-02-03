@@ -1,0 +1,14 @@
+filter:
+  - any
+  - - 'in'
+    - code
+    - 10504
+    - 10505
+    - 10512
+    - 3050101
+id: one-9
+paint:
+  fill-color: '#ffff99'
+source: v
+source-layer: one
+type: fill

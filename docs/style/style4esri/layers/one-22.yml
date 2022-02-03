@@ -1,0 +1,12 @@
+filter:
+  - any
+  - - 'in'
+    - code
+    - 11008
+    - 4010101
+id: one-22
+paint:
+  fill-color: '#c37aff'
+source: v
+source-layer: one
+type: fill

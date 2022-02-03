@@ -1,0 +1,13 @@
+filter:
+  - any
+  - - 'in'
+    - code
+    - 10704
+    - 3040201
+    - 3040202
+id: one-13
+paint:
+  fill-color: '#6699ff'
+source: v
+source-layer: one
+type: fill

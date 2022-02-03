@@ -1,0 +1,11 @@
+filter:
+  - any
+  - - 'in'
+    - code
+    - 9999
+id: one-30
+paint:
+  fill-color: '#ff00ff'
+source: v
+source-layer: one
+type: fill

@@ -1,0 +1,11 @@
+filter:
+  - any
+  - - 'in'
+    - code
+    - 999999
+id: one-24
+paint:
+  fill-color: '#144dfa'
+source: v
+source-layer: one
+type: fill

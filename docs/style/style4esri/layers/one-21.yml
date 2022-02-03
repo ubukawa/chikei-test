@@ -1,0 +1,12 @@
+filter:
+  - any
+  - - 'in'
+    - code
+    - 4010201
+    - 11005
+id: one-21
+paint:
+  fill-color: '#ff4f4f'
+source: v
+source-layer: one
+type: fill
